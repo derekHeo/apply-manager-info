@@ -48,7 +48,7 @@
 ---
 
 ## Architecture
-
+<img src="./img/applymanager_arch_img.png">
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                           Client                                    │
